@@ -1,0 +1,1 @@
+# CCU-scrapy-application
